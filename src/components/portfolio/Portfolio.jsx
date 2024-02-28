@@ -6,16 +6,16 @@ const items = [
     {
         id: 1,
         title: "Sushil 3D Car Demo",
-        img: "/hobby_site_3.png",
+        img: "hobby_site_3.png",
         description: "This a demo using React, Three JS and React Three Fiber to have a 3D style car show demo site.  This is an interactive demo to produce an effect of moving car in 3D space. In addition PostProcessing is used to produce cool after effects for the animation.",
         isVideo: true,
-        video: "/3d_car_demo_project_export.mp4",
+        video: "3d_car_demo_project_export.mp4",
         demo_link: "https://susgupta.github.io/3d_car_show/"
     },
     {
         id: 2,
         title: "Sushil SeaSide Vacation Site",
-        img: "/hobby_site_1.png",
+        img: "hobby_site_1.png",
         description: "This is a responsive design exercise to create a fake travel/beach themed site. Using media queries to cover break point design. Same with site navigation for media queries.",
         isVideo: false,
         video: "",
@@ -24,7 +24,7 @@ const items = [
     {
         id: 3,
         title: "Sushil Video Travel Site",
-        img: "/hobby_site_2.png",
+        img: "hobby_site_2.png",
         description: "This is just a basic design exercise for landing page with video looping style background.  This one adds mutiple video 'slides' and a different overlay technique.  The trick used was to load all videos and leverage javascript to toggle active CSS states.  ",
         isVideo: false,
         video: "",
